@@ -91,7 +91,8 @@ Each CORC is a token representing one metric ton of CO2 sequestered through enha
 
 - The **Puro.earth Registry** review the information provided as Verified Credentials, and approves the profiles, granting access to the platform's functions.
 
-![picture 7](images/3eb12e896aa5d3e0ae10a342cf7f34e2283ca05dd4624c880b14ba2c650298a2.png)  
+![picture 7](images/3eb12e896aa5d3e0ae10a342cf7f34e2283ca05dd4624c880b14ba2c650298a2.png)
+
 ![picture 8](images/a813d094c71d6772672b03590d22b4ce5082f7e850cb8b745e6c3a42c3c83982.png)  
 
 
@@ -115,19 +116,23 @@ Each CORC is a token representing one metric ton of CO2 sequestered through enha
 ![picture 13](images/1e02e642a8e48566b21b5eb7a21faffa0e374028b6031fe07e71c0361b253b73.png)  
 
 - **Life-Cycle Assessment (LCA) Report and CORC estimations**
+
 ![picture 14](images/e93cb8ac8b399fc070749c3044773b44fc9dc2c50f1145d22acd6dcdeedda12c.png)  
 
 
 - **Additional Assessment Report**
+
 ![picture 15](images/0485640704281a10911143e1ea71aacafebfd705d8ddc4c3d35e967214147fe2.png) 
 
 - **SDG Impacts**
+
 ![picture 16](images/5735a39bd3e963f68121a0ac3cf0a6a3e582b61c1853fd0c746db51ade37b874.png)  
 
 
 4. Application Site Audit 
 
 - Once the application site is registered, it is subject to an audit. Supplier can assign an approved auditor to the registered site.  
+
 ![picture 17](images/9138311d13eaa5ea4fe52e9b65df8f1679c8c99443a69c018d429aa65d2aff45.png)  
 
 
