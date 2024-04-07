@@ -114,19 +114,33 @@ Each CORC is a token representing one metric ton of CO2 sequestered through enha
 
 ![picture 13](images/1e02e642a8e48566b21b5eb7a21faffa0e374028b6031fe07e71c0361b253b73.png)  
 
-- **Rock dust application details**
+- **Life-Cycle Assessment (LCA) Report and CORC estimations**
+![picture 14](images/e93cb8ac8b399fc070749c3044773b44fc9dc2c50f1145d22acd6dcdeedda12c.png)  
 
-- **Other details - Risk assessment, SCR, SDGs etc**
 
-1. Application Site Audit 
+- **Additional Assessment Report**
+![picture 15](images/0485640704281a10911143e1ea71aacafebfd705d8ddc4c3d35e967214147fe2.png) 
+
+- **SDG Impacts**
+![picture 16](images/5735a39bd3e963f68121a0ac3cf0a6a3e582b61c1853fd0c746db51ade37b874.png)  
+
+
+4. Application Site Audit 
 
 - Once the application site is registered, it is subject to an audit. Supplier can assign an approved auditor to the registered site.  
+![picture 17](images/9138311d13eaa5ea4fe52e9b65df8f1679c8c99443a69c018d429aa65d2aff45.png)  
+
 
 - The **Auditor** reviews the application site's registration details and the **Application Site Audit Documentation** to ensure compliance with the **Puro Standard ERW Methodology**.
+
+![picture 19](images/1d2f0ff601c3bd91a6a21f011c9fd781e6adfa755cd887b2715e9e5a444e75ae.png)  
+
 
 5. Audit Approval
 
 - After a thorough review, the **Auditor** approves the application site, confirming it meets the necessary criteria for ERW implementation.
+
+![picture 18](images/e5fda2738611b07e6cb4bed1a2d7b2e00b3d9be7ee881e58f61bbe252b715470.png)  
 
 6. ERW Commencement 
 
@@ -135,19 +149,34 @@ Each CORC is a token representing one metric ton of CO2 sequestered through enha
 7. Output Report Submission
 
 - For a specified monitoring period, the **Supplier** is required to submit **Output Reports**. 
-- These reports detail the rock dust application volume, estimated carbon sequestration, and adherence to the monitoring requirements.
+
+![picture 20](images/27a365b58d9711a2fac4672a31a3bc5e05d4613d02d29ef2d236f11aa89653b9.png)  
+
+
+- These reports detail the ERW material applied at the Application site, estimated carbon sequestration, leakage and uncertainty estimations, and supporting calculations.
+
+![picture 21](images/df62852d8fc86643bb56476fd8ab1f1dbd4cd01de648accd92e9c81317f85fd7.png)  
+
 
 8. Output Report Verification
 
 - The **Auditor** receives and verifies the **Output Reports** to confirm the accuracy and integrity of the reported data.
 
+![picture 22](images/f743385ba71af9b8eba3b2041d7ce96643fed3ca965cacea74c7d2225742e333.png)  
+![picture 23](images/1a0a17135b0e1bcddfaecde5b066023c823a26e596b7a71c560f99e1c6c72541.png)  
+
+
 9. Verification, Validation, and CORC Issuance
 
 - After successful verification by the **Auditor**, the **Registry** validates the reports.
 
-- Upon validation, the **Registry** issues **CORCs**, which represent the net carbon removal achieved through the Supplier's ERW application.
+![picture 24](images/7c6df51b2246b89350c8ca02c79520a2d0d20e3a1eaa38f4d28967493c474b3d.png)  
 
-10. Trust Chain Visibility
+- Upon validation, the **Registry** issues **CORCs**, which represent the net carbon removal achieved through the Supplier's ERW application.
+![picture 25](images/2e6593ab29dc09b45d6ce93d1114f973a0f993284b62041f6bac260fb5a5698b.png)  
+
+
+10.  Trust Chain Visibility
 
 - The entire process is recorded in a trust chain, providing a transparent and immutable record of the ERW application and certification process.  
 - Stakeholders can view the trust chain to ensure the integrity and validity of the ERW's carbon sequestration credentials.
