@@ -17,7 +17,7 @@ Digitized Policy Workflow for Puro Standard's Enhanced Rock Weathering (ERW) Met
 
 <!-- /TOC -->
 
-
+****
 
 ## Introduction
 
@@ -38,7 +38,7 @@ Through digitization, the methodology becomes **more accessible and efficient, e
 
 ## Policy Workflow
 
-![images/puro_earth_erw_workflow.png](Workflow)
+![Workflow](images/puro_earth_erw_workflow.png)
 
 ## Demo
 
