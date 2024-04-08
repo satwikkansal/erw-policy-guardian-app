@@ -178,13 +178,20 @@ Each CORC is a token representing one metric ton of CO2 sequestered through enha
 ![picture 24](images/7c6df51b2246b89350c8ca02c79520a2d0d20e3a1eaa38f4d28967493c474b3d.png)  
 
 - Upon validation, the **Registry** issues **CORCs**, which represent the net carbon removal achieved through the Supplier's ERW application.
+
 ![picture 25](images/2e6593ab29dc09b45d6ce93d1114f973a0f993284b62041f6bac260fb5a5698b.png)  
 
+![picture 26](images/2d8f7e464322cdad7ddcfdfd7dc78bbbf03834caf1757b3b2c13eda1368c7340.png)  
 
-10.  Trust Chain Visibility
+
+
+10.   Trust Chain Visibility
 
 - The entire process is recorded in a trust chain, providing a transparent and immutable record of the ERW application and certification process.  
 - Stakeholders can view the trust chain to ensure the integrity and validity of the ERW's carbon sequestration credentials.
+
+
+![picture 27](images/ae4b64f018d2f561e24eb550b4c26bbec34366d42ec29dd1b7cde00c2a19500a.png)  
 
 ## Next Steps
 - Support automatic calculation of CORCs based on input LCA emission details  
