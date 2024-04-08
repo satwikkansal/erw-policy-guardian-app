@@ -48,7 +48,7 @@ Video to be inserted
 
 This policy guide provides an operational manual for implementing the Puro Standard ERW Methodology within the digital Guardian App ecosystem. It specifies each role's responsibilities, essential documents, and the procedural workflow, facilitating compliance and efficiency in achieving certified carbon removal.
 
-First version (v0.1.1) is published and can be imported via timestamp (TBD) or via the .policy file in the policy folder.
+First version (v0.1.1) is published under the topic [0.0.3989609](https://explore.lworks.io/testnet/topics/0.0.3989609) on testnet, it can also be imported via the `.policy` file in the policy folder.
 
 ### Available Roles 
 
