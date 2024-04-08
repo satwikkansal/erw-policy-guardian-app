@@ -1,5 +1,5 @@
 # erw-policy-guardian-app
-Digitized Policy Workflow for Puro Standard's Enhanced Rock Weathering (ERW) Methodology Edition 2022 V1, my submission for DLT Climate Hackathon, organised by DLT Science Foundation (DSF), in collaboration with The HBAR Foundation Sustainable Impact Fund.
+Digitized Policy Workflow for Puro.Earth Standard's Enhanced Rock Weathering (ERW) Methodology Edition 2022 V1, my submission for DLT Climate Hackathon, organised by DLT Science Foundation (DSF), in collaboration with The HBAR Foundation Sustainable Impact Fund.
 
 <!-- TOC -->
 
@@ -42,7 +42,7 @@ Through digitization, the methodology becomes **more accessible and efficient, e
 
 ## Demo
 
-Video to be inserted
+[![Watch the video](https://img.youtube.com/vi/CwnPmzV-6W4/0.jpg)](https://www.youtube.com/watch?v=CwnPmzV-6W4)
 
 ## Policy Guide
 
